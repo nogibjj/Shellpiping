@@ -1,2 +1,2 @@
 # Shellpiping
-Intro to how shell piping works
+Introduction to Shell piping
